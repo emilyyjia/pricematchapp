@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Price Match App</string>
+    <string name="url_input">URL</string>
+    <string name="button_enter">enter</string>
+</resources>
